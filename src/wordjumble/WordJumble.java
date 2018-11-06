@@ -1,6 +1,7 @@
 /*
  *Jared Craig   
  *5/11/2018
+ * Jumbles words into all possible combonations
  */
 
 package wordjumble;
